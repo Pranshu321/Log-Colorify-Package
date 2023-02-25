@@ -30,8 +30,8 @@ logColorify.<type>('Your message here');
 - warning
 - success
 - info
-  -   dark
-  -   light
+- dark
+- light
 
 ## Example
 
