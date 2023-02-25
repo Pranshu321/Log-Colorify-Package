@@ -1,0 +1,35 @@
+{
+  "name": "log-colorify-package",
+  "version": "1.0.0",
+  "description": "npm package for colorify your console text",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pranshu321/Log-Colorify-Package.git"
+  },
+  "keywords": [
+    "console log",
+    "colorify",
+    "color",
+    "colour",
+    "log colors",
+    "console log colors"
+  ],
+  "author": "Pranshu Jain <pranshujain0111@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Pranshu321/Log-Colorify-Package/issues"
+  },
+  "homepage": "https://github.com/Pranshu321/Log-Colorify-Package#readme",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  },
+  "files": [
+    "lib/**/*"
+  ]
+}
